@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/dictionary",
+  "version": "1.0.0",
+  "description": "Dictionary is a simple tool for getting word definitions. It returns the definition a word.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/dictionary-API.git"
+  },
+  "keywords": [
+    "dictionary"," dictionary api"," dictionary tool"," dictionary software"," dictionary service"," dictionary library"," dictionary sdk"," dictionary code"," dictionary script"," dictionary program"," dictionary application"," dictionary app"," dictionary utility"," dictionary helper"," dictionary helper tool"," dictionary helper software"," dictionary helper service"," dictionary helper library"," dictionary helper sdk"," dictionary helper code"," dictionary helper script"," dictionary helper program"," dictionary helper application"," dictionary helper app"," dictionary helper tool"," dictionary helper utility"," dictionary helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/dictionary-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/dictionary-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
